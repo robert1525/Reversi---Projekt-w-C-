@@ -1,0 +1,8 @@
+C:\Users\mariu\Desktop\Reversi\Reversi\bin\Release\Reversi.exe.config
+C:\Users\mariu\Desktop\Reversi\Reversi\obj\Release\Reversi.exe
+C:\Users\mariu\Desktop\Reversi\Reversi\obj\Release\Reversi.pdb
+C:\Users\mariu\Desktop\Reversi\Reversi\bin\Release\Reversi.exe
+C:\Users\mariu\Desktop\Reversi\Reversi\bin\Release\Reversi.pdb
+C:\Users\mariu\Desktop\Reversi\Reversi\obj\Release\Reversi.Form1.resources
+C:\Users\mariu\Desktop\Reversi\Reversi\obj\Release\Reversi.Properties.Resources.resources
+C:\Users\mariu\Desktop\Reversi\Reversi\obj\Release\Reversi.csproj.GenerateResource.Cache
